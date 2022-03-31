@@ -23,6 +23,8 @@ namespace MateriaGris.Ecommerce.WebApi.Controllers
         public async Task<IActionResult> GetAllAsync() 
         {
             var response = await _customerApplication.GetAllAsync();
+            return response.IsSuccess ? Ok(response) : BadRequest(response);
+            /*
             if (response.IsSuccess) 
             {
                 return Ok(response);
@@ -30,7 +32,7 @@ namespace MateriaGris.Ecommerce.WebApi.Controllers
             else
             {
                 return BadRequest(response);
-            }
+            }*/
         }
 
         [HttpGet("GetAllAsync/{customerId}")]
