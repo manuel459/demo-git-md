@@ -1,0 +1,15 @@
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\bin\Debug\net5.0\MateriaGris.Ecommerce.Domain.deps.json
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\bin\Debug\net5.0\MateriaGris.Ecommerce.Domain.runtimeconfig.json
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\bin\Debug\net5.0\MateriaGris.Ecommerce.Domain.runtimeconfig.dev.json
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\bin\Debug\net5.0\MateriaGris.Ecommerce.Domain.dll
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\bin\Debug\net5.0\ref\MateriaGris.Ecommerce.Domain.dll
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\bin\Debug\net5.0\MateriaGris.Ecommerce.Domain.pdb
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\obj\Debug\net5.0\MateriaGris.Ecommerce.Domain.csproj.AssemblyReference.cache
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\obj\Debug\net5.0\MateriaGris.Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\obj\Debug\net5.0\MateriaGris.Ecommerce.Domain.AssemblyInfoInputs.cache
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\obj\Debug\net5.0\MateriaGris.Ecommerce.Domain.AssemblyInfo.cs
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\obj\Debug\net5.0\MateriaGris.Ecommerce.Domain.csproj.CoreCompileInputs.cache
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\obj\Debug\net5.0\MateriaGris.Ecommerce.Domain.dll
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\obj\Debug\net5.0\ref\MateriaGris.Ecommerce.Domain.dll
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\obj\Debug\net5.0\MateriaGris.Ecommerce.Domain.pdb
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Domain\obj\Debug\net5.0\MateriaGris.Ecommerce.Domain.genruntimeconfig.cache

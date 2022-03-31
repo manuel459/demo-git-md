@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{464831DC-FA0D-45EB-B0D0-FBE3BE838B52}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{957AC713-A6CA-4187-8CF7-6F29B15759CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplication", "Aplication", "{C8A712BB-487B-41EF-B41E-99268246E1FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{A2C27EED-3C34-4285-9265-FC936D032500}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MateriaGris.Ecommerce.Domain", "src\MateriaGris.Ecommerce.Domain\MateriaGris.Ecommerce.Domain.csproj", "{91C80FB0-022E-4AFC-ACE5-ADB6557C66B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MateriaGris.Ecommerce.Infrastructure", "src\MateriaGris.Ecommerce.Infrastructure\MateriaGris.Ecommerce.Infrastructure.csproj", "{EE4B7533-0D63-490E-AC93-69FD68291084}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MateriaGris.Ecommerce.WebApi", "src\MateriaGris.Ecommerce.WebApi\MateriaGris.Ecommerce.WebApi.csproj", "{F66F1829-E877-4353-B653-40034B1205E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MateriaGris.Ecommerce.Application", "src\MateriaGris.Ecommerce.Application\MateriaGris.Ecommerce.Application.csproj", "{42FB8EAB-0A3E-4606-B0D5-1306F039F102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C80FB0-022E-4AFC-ACE5-ADB6557C66B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C80FB0-022E-4AFC-ACE5-ADB6557C66B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C80FB0-022E-4AFC-ACE5-ADB6557C66B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C80FB0-022E-4AFC-ACE5-ADB6557C66B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4B7533-0D63-490E-AC93-69FD68291084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4B7533-0D63-490E-AC93-69FD68291084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4B7533-0D63-490E-AC93-69FD68291084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4B7533-0D63-490E-AC93-69FD68291084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F66F1829-E877-4353-B653-40034B1205E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66F1829-E877-4353-B653-40034B1205E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F66F1829-E877-4353-B653-40034B1205E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F66F1829-E877-4353-B653-40034B1205E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FB8EAB-0A3E-4606-B0D5-1306F039F102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FB8EAB-0A3E-4606-B0D5-1306F039F102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FB8EAB-0A3E-4606-B0D5-1306F039F102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FB8EAB-0A3E-4606-B0D5-1306F039F102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{91C80FB0-022E-4AFC-ACE5-ADB6557C66B5} = {957AC713-A6CA-4187-8CF7-6F29B15759CF}
+		{EE4B7533-0D63-490E-AC93-69FD68291084} = {A2C27EED-3C34-4285-9265-FC936D032500}
+		{F66F1829-E877-4353-B653-40034B1205E4} = {464831DC-FA0D-45EB-B0D0-FBE3BE838B52}
+		{42FB8EAB-0A3E-4606-B0D5-1306F039F102} = {C8A712BB-487B-41EF-B41E-99268246E1FB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45A5AD38-5821-415D-BDCF-8E41E8B077E1}
+	EndGlobalSection
+EndGlobal
