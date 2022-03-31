@@ -17,10 +17,10 @@ namespace MateriaGris.Ecommerce.Application.Services
     {
         private readonly ICustomerRepository _customerRepository;
         //Mapear objetos entre capas
-        private readonly Mapper _mapper;
+        private readonly IMapper _mapper;
 
         //Inyectar la dependencia por costructor
-        public CustomerApplication(ICustomerRepository customerRepository,Mapper mapper)
+        public CustomerApplication(ICustomerRepository customerRepository,IMapper mapper)
         {
             _customerRepository = customerRepository;
             _mapper = mapper;

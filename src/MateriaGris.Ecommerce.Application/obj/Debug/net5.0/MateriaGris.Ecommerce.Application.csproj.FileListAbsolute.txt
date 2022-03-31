@@ -1,0 +1,17 @@
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\bin\Debug\net5.0\MateriaGris.Ecommerce.Application.deps.json
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\bin\Debug\net5.0\MateriaGris.Ecommerce.Application.dll
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\bin\Debug\net5.0\ref\MateriaGris.Ecommerce.Application.dll
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\bin\Debug\net5.0\MateriaGris.Ecommerce.Application.pdb
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\bin\Debug\net5.0\MateriaGris.Ecommerce.Domain.dll
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\bin\Debug\net5.0\MateriaGris.Ecommerce.Infrastructure.dll
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\bin\Debug\net5.0\MateriaGris.Ecommerce.Infrastructure.pdb
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\bin\Debug\net5.0\MateriaGris.Ecommerce.Domain.pdb
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\obj\Debug\net5.0\MateriaGris.Ecommerce.Application.csproj.AssemblyReference.cache
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\obj\Debug\net5.0\MateriaGris.Ecommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\obj\Debug\net5.0\MateriaGris.Ecommerce.Application.AssemblyInfoInputs.cache
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\obj\Debug\net5.0\MateriaGris.Ecommerce.Application.AssemblyInfo.cs
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\obj\Debug\net5.0\MateriaGris.Ecommerce.Application.csproj.CoreCompileInputs.cache
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\obj\Debug\net5.0\MateriaGris.Ecommerce.Application.csproj.CopyComplete
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\obj\Debug\net5.0\MateriaGris.Ecommerce.Application.dll
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\obj\Debug\net5.0\ref\MateriaGris.Ecommerce.Application.dll
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.Application\obj\Debug\net5.0\MateriaGris.Ecommerce.Application.pdb

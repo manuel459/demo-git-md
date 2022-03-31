@@ -58,3 +58,6 @@ D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.WebApi\obj\Debug\net5.0
 D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.WebApi\obj\Debug\net5.0\ref\MateriaGris.Ecommerce.WebApi.dll
 D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.WebApi\obj\Debug\net5.0\MateriaGris.Ecommerce.WebApi.pdb
 D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.WebApi\obj\Debug\net5.0\MateriaGris.Ecommerce.WebApi.genruntimeconfig.cache
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.WebApi\bin\Debug\net5.0\MateriaGris.Ecommerce.Application.dll
+D:\curso\MateriaGris.Ecommerce\src\MateriaGris.Ecommerce.WebApi\bin\Debug\net5.0\MateriaGris.Ecommerce.Application.pdb

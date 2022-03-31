@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MateriaGris.Ecommerce.Application\MateriaGris.Ecommerce.Application.csproj" />
     <ProjectReference Include="..\MateriaGris.Ecommerce.Infrastructure\MateriaGris.Ecommerce.Infrastructure.csproj" />
   </ItemGroup>
 
